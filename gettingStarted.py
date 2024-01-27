@@ -15,13 +15,13 @@ def welcome_assignment_answers(question):
     elif question == "Is it possible to decrypt a message without a key? - Yes/No":
         answer = "No"
     elif question == "Is it possible to decode a message without a key? - Yes/No":
-        answer = "No"
+        answer = "Yes"
     elif question == "Is a hashed message supposed to be un-hashed? - Yes/No":
         answer = "No"
     elif question == "What is the SHA256 hashing value of your NYU email and use the answer in your code - ":
         answer ="9cc2e6b1faab31abfc994f4f9688b7bbb5e4c3bbd8f8529199f669d840009160"
     elif question == "Is MD5 a secured hashing algorithm? - Yes/No":
-        answer = "No"
+        answer = "Yes"
     elif question == "What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
         answer = 4
     elif question == "What layer of the TCP/IP model does the protocol ICMP belong to? - The answer should be an integer number":
